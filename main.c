@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-   printf("Hello\tworld , 改行しない");
+   printf("Hello\tworld");
     
     return 0;
 }
